@@ -1,0 +1,27 @@
+---
+---
+
+html, body {
+	beackground-color: #ffffff;  
+}
+
+header {
+  beackground-color: #ffffff;  
+}
+
+header a {
+  color: #808080;  
+}
+
+a {
+    color: #808080;  
+    text-decoration: none;
+}
+
+a[href]:after {
+	content: ' (' attr(href) ')';
+}
+
+header, footer {
+display:none;	
+}
