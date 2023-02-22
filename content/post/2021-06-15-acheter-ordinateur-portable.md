@@ -53,6 +53,8 @@ Mais les ordinateurs reconditionnés ont été contrôlés et vérifiés, les pi
 * [Trade Discount](https://www.tradediscount.com/) Entreprise "eco-citoyenne", favorisant l'inclusion sociale
 * [Fnac 2ème vie](https://www.fnac.com/Fnac-Seconde-Vie/Ordinateur-et-Tablette-d-occasion/shi377369/w-4#bl=2nde_vie_NMO_Micro)
 * [Boulanger ordinateur reconditionné](https://www.boulanger.com/c/tous-les-ordinateurs-portables/_etat_produit~reconditionne9)
+* [Largo](https://www.largo.fr/) Reconditionné en France, à Saint-Luce-sur-Loire (44)
+* [Reepeat](https://www.reepeat.fr) Un comparateur de reconditionné qui permet de trouver des offres venant d'autres sites (Amazon, Cdiscount, Backmarket, Fnac, Darty, Philips, Bose, etc.. )
 * [Back Market](https://www.backmarket.fr/) Back Market est une marketplace, c’est-à-dire qu'elle met en contacte les clients et les reconditionneurs basés partout dans le monde.
 
 ## Acheter neuf
